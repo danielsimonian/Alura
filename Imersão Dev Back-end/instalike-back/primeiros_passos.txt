@@ -20,3 +20,5 @@ app.get('/api', (req, res) => {
 5. npm install mongodb -> instalar o mongodb
 
 6. Arquivo .env -> criação de variáveis de ambiente (proteção de dados)
+
+7. npm i @google/generative-ai
